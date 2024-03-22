@@ -1,7 +1,7 @@
-# NetworkResolver
+# Network Resolver Tool
 
 ## Overview
-NetworkResolver is a command-line tool designed to facilitate network diagnostics and information retrieval. It provides functionalities for resolving hostnames to IP addresses, performing reverse DNS lookups, and displaying service ports in various formats. This tool supports both IPv4 and IPv6 addresses and allows users to specify the transport protocol (TCP/UDP), the byte order for port numbers, and output formatting options.
+Network Resolver is a command-line tool designed to facilitate network diagnostics and information retrieval. It provides functionalities for resolving hostnames to IP addresses, performing reverse DNS lookups, and displaying service ports in various formats. This tool supports both IPv4 and IPv6 addresses and allows users to specify the transport protocol (TCP/UDP), the byte order for port numbers, and output formatting options.
 
 ## Features
 - **Hostname Resolution**: Resolve hostnames to IP addresses.
